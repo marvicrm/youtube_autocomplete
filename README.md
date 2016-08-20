@@ -1,7 +1,7 @@
 # youtube_autocomplete
 A very lightweight YouTube search autocomplete. No javascript library needed!
 
-This is not just a youtube autocomplete, it will also suggest any keywords which is available on google.
+This is not just a youtube autocomplete, it will also suggest any keywords available on google.
 
 Screenshot
 
