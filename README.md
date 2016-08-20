@@ -10,3 +10,5 @@ Screenshot
 Basic Usage 
 
 Youtube_AC.Init();
+
+Please run the demo.html for actual testing
