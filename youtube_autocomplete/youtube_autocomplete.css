@@ -1,0 +1,19 @@
+#youtube_ac,#youtube_ac_result
+{
+	width:350px;
+}
+#youtube_ac_result
+{
+	background:#f0f0f0;
+	text-align:left;
+	padding:5px;
+}
+#youtube_ac_result a 
+{
+	color:#999;
+	text-decoration:none;
+}
+#youtube_ac_result a:hover 
+{
+	text-decoration:underline;
+}
