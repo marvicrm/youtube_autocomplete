@@ -6,3 +6,7 @@ This is not just a youtube autocomplete, it will also suggest any keywords which
 Screenshot
 
 <img src="https://s4.postimg.org/ynddqhea5/youtube_autocomplete.png" />
+
+Basic Usage 
+
+Youtube_AC.Init();
