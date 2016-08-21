@@ -1,0 +1,13 @@
+{
+    "name": "marvicrm/youtube_downloader",
+    "description": "A very lightweight YouTube search autocomplete. No javascript library needed!",
+    "keywords": ["javascript autocomplete","youtube autocomplete","autocomplete"],
+    "type": "project",
+    "license": "MIT",
+    "authors":[{
+        "name": "Marvic Macalintal",
+        "email": "vicmacalintal@yahoo.com",
+        "role": "Developer"
+    }]
+ 
+}
