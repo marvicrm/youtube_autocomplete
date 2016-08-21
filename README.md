@@ -7,7 +7,7 @@ Screenshot
 
 <img src="https://s4.postimg.org/ynddqhea5/youtube_autocomplete.png" />
 
-Basic Usage 
+<b>Basic Usage</b>
 
 Youtube_AC.Init();
 
