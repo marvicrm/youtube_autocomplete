@@ -11,4 +11,12 @@ Basic Usage
 
 Youtube_AC.Init();
 
+Installation
+
+Composer:
+- composer require "marvicrm/youtube_autocomplete":"dev-master"
+
+Manual:
+- Download the project as zip file, extract on your desired folder
+
 Please run the demo.html for actual testing
