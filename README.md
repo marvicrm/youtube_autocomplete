@@ -11,7 +11,6 @@ Screenshot
 
 Youtube_AC.Init();
 
-
 <b>Installation</b>
 
 Composer:
