@@ -18,7 +18,7 @@ This is not just a youtube autocomplete, it will also suggest any keywords avail
     Youtube_AC.Init(); <br>
 \</script>
 
-<br>Then just put an id 'youtube_ac' into your search box<br>
+<br>\<!-- Then just put an id 'youtube_ac' into your search box --> <br>
 \<input type="text" id="youtube_ac">
 
 
