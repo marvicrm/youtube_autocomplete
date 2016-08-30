@@ -9,16 +9,17 @@ This is not just a youtube autocomplete, it will also suggest any keywords avail
 
 <b>Basic Usage</b>
 
-<!-- Important file to include: CSS & JS file -->
+<i>Important file to include: CSS & JS file</i>
+
 <link rel="stylesheet" href="youtube_autocomplete.css" />
 <script src="youtube_autocomplete.js"></script>
 
-<!-- Call -->
+<i>Call</i>
 <script>
   Youtube_AC.Init();
 </script>
 
-Then just put an id 'youtube_ac' into your search box
+<i>Then just put an id 'youtube_ac' into your search box</i>
 <input type="text" id="youtube_ac">
 
 ====================================
