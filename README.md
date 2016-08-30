@@ -10,7 +10,6 @@ This is not just a youtube autocomplete, it will also suggest any keywords avail
 <b>Basic Usage</b>
 
 <i>Important file to include: CSS & JS file</i>
-
 \<link rel="stylesheet" href="youtube_autocomplete.css" />
 \<script src="youtube_autocomplete.js"></script>
 
@@ -21,6 +20,7 @@ This is not just a youtube autocomplete, it will also suggest any keywords avail
 
 <i>Then just put an id 'youtube_ac' into your search box</i>
 \<input type="text" id="youtube_ac">
+
 
 ====================================
 Optional Parameters
