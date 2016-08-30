@@ -30,7 +30,7 @@ Youtube_AC.Init(limit,minchar);
 
 Where:<br>
   limit = the number of max results on autocomplete. Default = 8<br>
-  minchar = the number of input characters needed in order to fire the autocomplete event. Default = 3
+  minchar = the number of min input characters needed in order to fire the autocomplete event. Default = 3
 
 
 <b>Installation</b>
