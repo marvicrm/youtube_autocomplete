@@ -1,16 +1,20 @@
-#youtube_ac,#youtube_ac_result
+#youtube_ac
 {
-	width:350px;
+	width:400px;
 }
 #youtube_ac_result
 {
 	background:#fff;
 	text-align:left;
-	padding:5px;
+	padding:2px;
+}
+#youtube_ac_result li 
+{
+	list-style-type:none;
 }
 #youtube_ac_result a 
 {
-	color:#999;
+	color:#000;
 	text-decoration:none;
 }
 #youtube_ac_result a:hover 
