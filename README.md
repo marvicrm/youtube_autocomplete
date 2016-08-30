@@ -9,7 +9,28 @@ This is not just a youtube autocomplete, it will also suggest any keywords avail
 
 <b>Basic Usage</b>
 
-Youtube_AC.Init();
+<!-- Important file to include: CSS & JS file -->
+<link rel="stylesheet" href="youtube_autocomplete.css" />
+<script src="youtube_autocomplete.js"></script>
+
+<!-- Call -->
+<script>
+  Youtube_AC.Init();
+</script>
+
+Then just put an id 'youtube_ac' into your search box
+<input type="text" id="youtube_ac">
+
+====================================
+Optional Parameters
+====================================
+
+Youtube_AC.Init(limit,minchar);
+
+Where:
+  limit = the number of max results on autocomplete. Default = 8
+  minchar = the number of input characters needed in order to fire the autocomplete event. Default = 3
+
 
 <b>Installation</b>
 
