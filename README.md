@@ -5,7 +5,7 @@ This is not just a youtube autocomplete, it will also suggest any keywords avail
 
 <b>Screenshot</b>
 
-<img src="https://s4.postimg.org/ynddqhea5/youtube_autocomplete.png" />
+<img src="https://s12.postimg.org/7dzbejxvh/y_autocomplete.png" />
 
 <b>Basic Usage</b>
 
