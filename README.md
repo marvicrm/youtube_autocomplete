@@ -15,7 +15,7 @@ Important file to include: CSS & JS file<br>
 
 Call<br>
 \<script><br>
-  Youtube_AC.Init(); <br>
+    Youtube_AC.Init(); <br>
 \</script>
 
 <br>Then just put an id 'youtube_ac' into your search box<br>
