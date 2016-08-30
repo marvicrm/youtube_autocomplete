@@ -9,11 +9,11 @@ This is not just a youtube autocomplete, it will also suggest any keywords avail
 
 <b>Basic Usage</b>
 
-Important file to include: CSS & JS file<br>
+\<!-- Important file to include: CSS & JS file --><br>
 \<link rel="stylesheet" href="youtube_autocomplete.css" /><br>
 \<script src="youtube_autocomplete.js">\</script>
 
-Call<br>
+\<!-- Calling the autocomplete --> <br>
 \<script><br>
     Youtube_AC.Init(); <br>
 \</script>
