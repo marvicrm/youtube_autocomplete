@@ -1,3 +1,7 @@
+// Author : Marvic R. Macalintal
+// Contact: vicmacalintal@yahoo.com
+// FB: marvic.macalintal
+
 var Youtube_AC = {
 	
 	Init: function(limit=8,minchar=3)
@@ -86,6 +90,7 @@ var Youtube_AC = {
 				document.querySelector('#youtube_ac').value = document.querySelectorAll(".youtube_ac_item")[k].innerText;
 			
 			}
+			// Enter 
 			else if(e.keyCode==13)
 			{
 				document.querySelector('#youtube_ac_result').style.display = 'none';
